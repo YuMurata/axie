@@ -1,10 +1,10 @@
 # web IDE で作業
 * web IDE: https://remix.ethereum.org
 
-## ローカルのプロジェクトと同期
+### ローカルのプロジェクトと同期
 [docs/sync.md](/docs/sync.md) を参照
 
-## コンパイルとかデプロイとか
+### コンパイルとかデプロイとか
 * 参考: https://www.youtube.com/watch?v=6kZfVHLHTR0
 
 他にも見つけたら更新してく
