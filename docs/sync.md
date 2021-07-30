@@ -51,6 +51,10 @@ web上でも完結できるけどローカルにファイルを残しておき�
    # 同期中はremixdを終了してはいけない
    ```
 
+> **NOTE**
+>
+> [remixd_sync](./remixd_sync)以下のスクリプトを実行することでも起動できる
+
 ### ブラウザから連携する
 1. ブラウザから https://remix.ethereum.org にアクセスする
 1. 左上の`Workspaces`のリストボックスから`connect localhost`的なのを選ぶ
