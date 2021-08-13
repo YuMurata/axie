@@ -1,3 +1,4 @@
 .deps/
 contracts/artifacts/
 node_modules
+build/
